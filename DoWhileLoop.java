@@ -4,6 +4,6 @@ class DoWhileLoop {
         do {
             System.out.println(counter);
             counter++;
-        }while(counter<=10);
+        }while(counter>=10);
     }
 }
